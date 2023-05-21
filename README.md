@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roodz</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **netflix.html**
+- 🔭 I’m currently working on ****
 ![giphy](https://github.com/yunusemreguven/Roodz/assets/131678998/18029b2f-1776-4e82-96f7-95eecd93764d)
 
 <h3 align="left">Connect with me:</h3>
